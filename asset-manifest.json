@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ekaterinagol.github.io/exam-artvision/static/css/main.a1f58be9.css",
-    "main.js": "/ekaterinagol.github.io/exam-artvision/static/js/main.5eeab808.js",
-    "static/media/img1.jpg": "/ekaterinagol.github.io/exam-artvision/static/media/img1.3e0fd81c5e78f0ebe5f7.jpg",
-    "static/media/work3.png": "/ekaterinagol.github.io/exam-artvision/static/media/work3.a5d40eb9862ae9c67b5d.png",
-    "static/media/work1.png": "/ekaterinagol.github.io/exam-artvision/static/media/work1.504ab798bb1c6cd24f71.png",
-    "static/media/work2.png": "/ekaterinagol.github.io/exam-artvision/static/media/work2.870d43d94936ec92c546.png",
-    "static/media/img2.jpg": "/ekaterinagol.github.io/exam-artvision/static/media/img2.59263bd83d95dfb1a7ab.jpg",
-    "index.html": "/ekaterinagol.github.io/exam-artvision/index.html",
-    "main.a1f58be9.css.map": "/ekaterinagol.github.io/exam-artvision/static/css/main.a1f58be9.css.map",
-    "main.5eeab808.js.map": "/ekaterinagol.github.io/exam-artvision/static/js/main.5eeab808.js.map"
+    "main.css": "/exam-artvision/static/css/main.e60a5736.css",
+    "main.js": "/exam-artvision/static/js/main.008b8f74.js",
+    "static/media/img1.jpg": "/exam-artvision/static/media/img1.3e0fd81c5e78f0ebe5f7.jpg",
+    "static/media/work3.png": "/exam-artvision/static/media/work3.a5d40eb9862ae9c67b5d.png",
+    "static/media/work1.png": "/exam-artvision/static/media/work1.504ab798bb1c6cd24f71.png",
+    "static/media/work2.png": "/exam-artvision/static/media/work2.870d43d94936ec92c546.png",
+    "static/media/img2.jpg": "/exam-artvision/static/media/img2.59263bd83d95dfb1a7ab.jpg",
+    "index.html": "/exam-artvision/index.html",
+    "main.e60a5736.css.map": "/exam-artvision/static/css/main.e60a5736.css.map",
+    "main.008b8f74.js.map": "/exam-artvision/static/js/main.008b8f74.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1f58be9.css",
-    "static/js/main.5eeab808.js"
+    "static/css/main.e60a5736.css",
+    "static/js/main.008b8f74.js"
   ]
 }
