@@ -76,7 +76,7 @@ const RegistrationForm = () => {
       console.log('Форма отправлена:', formData);
       setTimeout(() => {
         setIsSubmitting(false);
-        navigate('/success'); // Перенаправление после успешной отправки
+        navigate('/Main'); // Перенаправление после успешной отправки
       }, 1000);
     }
   };
