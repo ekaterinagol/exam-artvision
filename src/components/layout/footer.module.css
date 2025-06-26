@@ -1,0 +1,105 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    bottom:0;
+    left:0;
+    right:0;
+    padding: 30px 0;
+    background-color: rgb(250, 225, 135);
+    color: #2c3e50;
+}
+
+.footerContainer {
+    display: flex;
+    justify-content:space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex;
+    padding: 0 50px;
+}
+
+.logoSection {
+    flex: 1;
+    min-width: 200px;
+    margin-bottom: 30px;
+}
+
+.logo {
+    font-size: 28px;
+    font-weight: 700;
+    color: #ffffff;
+    margin-bottom: 10px;
+    letter-spacing: 1px;
+}
+
+.tagline {
+    font-size: 14px;
+    font-style: italic;
+}
+
+.navSection, .contactSection {
+    flex: 1;
+    min-width: 100px;
+    margin-bottom: 30px;
+}
+
+.sectionTitle {
+    font-size: 18px;
+    margin-bottom: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.navList {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.navList li {
+    margin-bottom: 12px;
+}
+
+.navLink {
+    text-decoration: none;
+    transition: color 0.3s;
+    font-size: 16px;
+}
+
+.contactItem {
+    margin-bottom: 15px;
+}
+
+.contactLabel {
+    display: block;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.contactValue {
+    font-size: 16px;
+}
+
+@media screen and (max-width: 1200px)
+      {
+
+      }
+      /* Large devices (desktops, 992px and up)*/
+      @media screen and (max-width: 992px) 
+      {
+
+      
+      }
+      /* Medium devices (tablets, 768px and up)*/
+      @media screen and (max-width: 768px)
+      {
+
+      }
+      /*Small devices (landscape phones, 576px and up)*/
+      @media screen and (max-width: 576px)
+      {
+        
+      }
