@@ -15,7 +15,7 @@ function Footer() {
                 <div className={classes.navSection}>
                     <h3 className={classes.sectionTitle}>Навигация</h3>
                     <ul className={classes.navList}>
-                        <li><a href="/" className={classes.navLink}>Главная</a></li>
+                        <li><Link to="/">Главная</Link></li>
                         <li><a href="/about" className={classes.navLink}>О нас</a></li>
                         <li><a href="/events" className={classes.navLink}>Мероприятия</a></li>
                     </ul>
