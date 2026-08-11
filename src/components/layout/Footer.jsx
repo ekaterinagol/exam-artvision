@@ -3,18 +3,6 @@ import classes from './footer.module.css';
 import { Link, useLocation } from "react-router-dom"; 
 
 function Footer() {
-    const location = useLocation();
-    
-    const getHeaderText = () => { 
-        switch(location.pathname) {
-            case '/About':
-                return "О НАС";
-            case '/Events':
-                return "МЕРОПРИЯТИЯ";
-            default:
-                return "ДОБРО ПОЖАЛОВАТЬ В КРЕАТИВНОЕ ПРОСТРАНСТВО ARTVISION";
-        }
-    };
     return (
         <footer className={classes.footer}>
             <div className={classes.footerContainer}>
@@ -27,9 +15,9 @@ function Footer() {
                 <div className={classes.navSection}>
                     <h3 className={classes.sectionTitle}>Навигация</h3>
                     <ul className={classes.navList}>
-                        <li><Link to="/">Главная</Link></li>
-                        <li><a href="/about" className={classes.navLink}>О нас</a></li>
-                        <li><a href="/events" className={classes.navLink}>Мероприятия</a></li>
+                        <li><Link to="/exam-artvision/#/">Главная</Link></li>
+                        <li><a href="/exam-artvision/#/about" className={classes.navLink}>О нас</a></li>
+                        <li><a href="/exam-artvision/#/events" className={classes.navLink}>Мероприятия</a></li>
                     </ul>
                 </div>
                 
