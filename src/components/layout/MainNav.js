@@ -11,7 +11,7 @@ function MainNav() {
             case '/About':
                 return "О НАС";
             case '/Events':
-                return "МЕРОПРИЯТИ";
+                return "МЕРОПРИЯТИЯ";
             default:
                 return "ДОБРО ПОЖАЛОВАТЬ В КРЕАТИВНОЕ ПРОСТРАНСТВО ARTVISION";
         }
